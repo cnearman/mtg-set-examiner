@@ -1,0 +1,230 @@
+#,Name,Type,Power,Toughness,Cost,Rarity,Keywords,Other Abilities
+1,"Ajani, Caller of the Pride",Planeswalker - Ajani,N/A,N/A,1WW,M,,
+2,Ajani's Sunstriker,Creature - Cat Cleric,2,2,WW,C,Lifelink,
+3,Angel's Mercy,Instant,N/A,N/A,2WW,C,,You gain 7 life.
+4,Angelic Benediction,Enchantment,N/A,N/A,3W,U,Exalted. ,"Whenever a creature you control attacks alone, you may tap target creature"
+5,Attended Knight,Creature - Human Knight,2,2,2W,C,First Strike. ,"When Attended Knight enters the battlefield, put a 1/1 soldier token onto the battlefield."
+6,Aven Squire,Creature - Bird Soldier,1,1,1W,C,Flying. Exalted,
+7,Battleflight Eagle,Creature - Bird,2,2,4W,C,Flying. ,"When Battleflight Eagle enters the battlefield, target creature gets +2/+2 and flying until end of turn"
+8,Captain of the Watch,Creature - Human Soldier,3,3,4WW,R,,
+9,Captain's Call,Sorcery,N/A,N/A,3W,C,,
+10,Crusader of Odric,Creature - Human Soldier,*,*,2W,U,,
+11,Divine Favor,Enchantment - Aura,N/A,N/A,1W,C,,
+12,Divine Verdict,Instant,N/A,N/A,3W,C,,
+13,Erase,Instant,N/A,N/A,W,C,,
+14,Faith's Reward,Instant,N/A,N/A,3W,R,,
+15,Glorious Charge,Instant,N/A,N/A,1W,C,,
+16,Griffin Protector,Creature - Griffin,2,3,3W,C,,
+17,Guardian Lions,Creature - Cat,1,6,4W,C,Vigilance,
+18,Guardians of Akrasa,Creature - Human Soldier,0,4,2W,C,Defender. Exalted,
+19,Healer of the Pride,Creature - Cat Cleric,2,3,3W,U,,
+20,Intrepid Hero,Creature - Human Soldier,1,1,2W,R,,
+21,Knight of Glory,Creature - Human Knight,2,1,1W,U,Protection from black. Exalted,
+22,Oblivion Ring,Enchantment,N/A,N/A,2W,U,,
+23,"Odric, Master Tactician",Legendary Creature - Human Soldier,3,4,2WW,R,,
+24,Pacifisim,Enchantment - Aura,N/A,N/A,1W,C,,
+25,Pillarfield Ox,Creature - Ox,2,4,3W,C,,
+26,Planar Cleansing,Sorcery,N/A,N/A,3WWW,R,,
+27,Prized Elephant,Creature - Elephant,3,3,3W,U,,
+28,Rain of Blades,Instant,N/A,N/A,W,U,,
+29,Rhox Faithmender,Creature - Rhino Monk,1,5,3W,R,,
+30,Safe Passage,Instant,N/A,N/A,2W,C,,
+31,Serra Angel,Creature - Angel,4,4,3WW,U,Flying. Vigilance,
+32,Serra Avatar,Creature - Avatar,*,*,4WWW,M,,
+33,Serra Avenger,Creature - Angel,3,3,WW,R,Flying. Vigilance. ,Serra Avenger cannot be played until its owners fourth turn.
+34,Show of Valor,Instant,N/A,N/A,1W,C,,
+35,Silvercoat Lion,Creature - Cat,2,2,1W,C,,
+36,Sublime Archangel,Creature - Angel,4,3,2WW,M,Flying. Exalted. ,Other creatures you control have exalted.
+37,Touch of the Eternal,Enchantment,N/A,N/A,5WW,R,,
+38,War Falcon,Creature - Bird,2,1,W,C,Flying. ,War Falcon can't attack unless you control a Knight or Soldier.
+39,War Priest of Thune,Creature - Human Cleric,2,2,1W,U,,"When War Priest of Thune enters the battlefield, you may destroy target enchantment."
+40,Warclamp Mastiff,Creature - Hound,1,1,W,C,First Strike. ,
+41,Archeomancer,Creature - Human Wizard,1,2,2UU,C,,
+42,Arctic Aven,Creature - Bird Wizard,2,1,2U,U,Flying. ,Arctic Aven gets +1/1 as long as you control a Plains. W : Arctic Aven gains lifelink until end of turn.
+43,Augur of Bolas,Creature - Merfolk Wizard,1,3,1U,U,,
+44,Battle of Wits,Enchantment,N/A,N/A,3UU,R,,
+45,Clone,Creature - Shapeshifter,0,0,3U,R,,
+46,Courtly Provocateur,Creature - Human Wizard,1,1,2U,U,,T : Target creature attacks this turn if able. T : Target creature blocks this turn if able.
+47,Divination,Sorcery,N/A,N/A,2U,C,,
+48,Downpour,Instant,N/A,N/A,1U,C,,
+49,Encrust,Enchantment - Aura,N/A,N/A,1UU,C,,
+50,Essence Scatter,Instant,N/A,N/A,1U,C,,
+51,Faerie Invaders,Creature - Faerie Rogue,3,3,4U,C,Flash. Flying.,
+52,Fog Bank,Creature - Wall,0,2,1U,U,Defender. Flying., Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+53,Harbor Serpent,Creature - Serpent,5,5,4UU,C,Islandwalk., Harbor Serpent can't attack unless there are five or more Islands on the battlefield.
+54,Hydrosurge,Instant,N/A,N/A,U,C,,
+55,Index,Sorcery,N/A,N/A,U,C,,
+56,"Jace, Memory Adept",Planeswalker - Jace,N/A,N/A,3UU,M,,
+57,Jace's Phantasm,Creature - Illusion,1,1,U,U,Flying. ,Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in his or her graveyard.
+58,Kraken Hatchling,Creature - Cracken,0,4,U,C,,
+59,Master of the Pearl Trident,Creature - Merfolk,2,2,UU,R,,Other Merfolk creatures you control get +1/+1 and have islandwalk.
+60,Merfolk of the Pearl Trident,Creature - Merfolk,1,1,U,C,,
+61,Mind Sculpt,Sorcery,N/A,N/A,1U,C,,
+62,Negate,Instant,N/A,N/A,1U,C,,
+63,Omniscience,Enchantement,N/A,N/A,7UUU,R,,
+64,Redirect,Instant,N/A,N/A,UU,R,,
+65,Rewind,Instant,N/A,N/A,2UU,U,,
+66,Scroll Thief,Creature - Merfolk Rogue,1,3,2U,C,,"Whenever Scroll Thief deals combat damage to a player, draw a card."
+67,Sleep,Sorcery,N/A,N/A,2UU,U,,
+68,Spelltwine,Sorcery,N/A,N/A,5U,,,
+69,Sphinx of Uthuun,Creature - Sphinx,5,6,5UU,R,Flying. ,
+70,Stormtide Leviathan,Creature - Leviathan,8,8,5UUU,R,Islandwalk. ,All lands are Islands in addition to their other types. Creatures without flying or island walk can't attack.
+71,Switcheroo,Sorcery,N/A,N/A,4U,U,,
+72,"Talrand, Sky Summoner",Legendary Creature - Merfolk Wizard,2,2,2UU,R,,
+73,Talrand's Invocation,Sorcery,N/A,N/A,2UU,U,,
+74,Tricks of the Trade,Enchantment - Aura,N/A,N/A,3U,C,,
+75,Unsummon,Instant,N/A,N/A,U,C,,
+76,Vedalken Entrancer,Creature - Vedalken Wizard,1,4,3U,C,,
+77,Void Stalker,Creature - Elemental,2,1,1U,R,,"2U, T : Put Void Stalker and target creature on top of their owner's libraries, then those players shuffle their libraries."
+78,Watercourser,Creature - Elemental,2,3,2U,C,,U : Watercourser gets +1/-1 until end of turn.
+79,Welkin Tern,Creature - Bird,2,1,1U,C,Flying. ,Welkin Tern can block only creatures with flying.
+80,Wind Drake,Creature - Drake,2,2,2U,C,Flying.,
+81,Blood Reckoning,Enchantment,N/A,N/A,3B,U,,
+82,Bloodhunter Bat,Creature - Bat,2,2,3B,C,Flying. ,"When Bloodhunter bat enters the battlefield, target player loses 2 life and you gain 2 life."
+83,Bloodthrone Vampire,Creature - Vampire,1,1,1B,C,,Sacrifice a creature : Bloodthrone Vampire gets +2/+2 until end of turn.
+84,Cower in Fear,Instant,N/A,N/A,1BB,U,,
+85,Crippling Blight,Enchantment - Aura,N/A,N/A,B,C,,
+86,Dark Favor,Enchantment - Aura,N/A,N/A,1B,C,,
+87,Diabolic Revelation,Sorcery,N/A,N/A,X3BB,R,,
+88,Disciple of Bolas,Creature - Human Wizard,2,1,3B,R,,"When Disciple of Bolas enters the battlefield,  sacrifice another creature. You gain X life and draw X cards, where X is that creature's power."
+89,Disentomb,Sorcery,N/A,N/A,B,C,,
+90,Duress,Sorcery,N/A,N/A,B,C,,
+91,Duskmantle Prowler,Creature - Vampire Rogue,2,2,3B,U,Haste. Exalted,
+92,Duty-Bound Dead,Creature - Skeleton,0,2,B,C,Exalted. ,3B : Regenerate Duty-Bound Dead.
+93,Essence Drain,Sorcery,N/A,N/A,4B,C,,
+94,Giant Scorpion,Creature - Scorpion,1,3,2B,C,Deathtouch.,
+95,Harbor Bandit,Creature - Human Rogue,2,2,2B,U,,Harbor Bandit gets +1/+1 as long as you control an Island. 1U : Harbor Bandit is unblockable this turn.
+96,Knight of Infamy,Creature - Human Knight,2,1,1B,U,Protection from white. Exalted.,
+97,Liliana of the Dark Realms,Planeswalker - Liliana,N/A,N/A,2BB,M,,
+98,Liliana's Shade,Creature - Shade,1,1,2BB,C,,"When Liliana's Shade enters the battlefield, you may search your library for a Swamp, reveal it, put it into your hand, then shuffle your library. B : Liliana's Shade gets +1/+1 until end of turn."
+99,Mark of the Vampire,Enchantment - Aura,N/A,N/A,3B,C,,
+100,Mind Rot,Sorcery,N/A,N/A,2B,C,,
+101,Murder,Enchantment - Aura,N/A,N/A,1BB,C,,
+102,Mutilate,Sorcery,N/A,N/A,2BB,R,,
+103,"Nefarox, Overlord of Grixis",Legendary Creature - Demon,5,5,4BB,R,Flying. Exalted. ,"Whenever Nefarox, Overlord of Grixis attacks alone, defending player sacrifices a creature."
+104,Phylactery Lich,Creature - Zombie,5,5,BBB,R,,
+105,Public Execution,Instant,N/A,N/A,5B,U,,
+106,Ravenous Rats,Creature - Rat,1,1,1B,C,,"When Ravenous Rats enters the battlefield, target opponent discards a card."
+107,Rise from the Grave,Sorcery,N/A,N/A,4B,U,,
+108,Servent of Nefarox,Creature - Human Cleric,3,1,2B,C,Exalted.,
+109,Shimian Specter,Creature - Specter,2,2,2BB,R,Flying.,
+110,Sign in Blood,Sorcery,N/A,N/A,BB,C,,
+111,Tormented Soul,Creature - Spirit,1,1,B,C,Can't Block. Unblockable.,
+112,Vampire Nighthawk,Creature - Vampire Shaman,2,3,1BB,U,Flying. Deathtouch. Lifelink.,
+113,Vampire Nocturnus,Creature - Vampire,3,3,1BBB,M,,
+114,Veilborn Ghoul,Creature - Zombie,4,1,4B,U,Can't Block.," Whenever a Swamp enters the battlefield under your control, you may return Veilborn Ghoul from your graveyard to your hand."
+115,Vile Rebirth,Instant,N/A,N/A,B,C,,
+116,Walking Corpse,Creature - Zombie,2,2,1B,C,,
+117,Wit's End,Sorcery,N/A,N/A,5BB,R,,
+118,Xathrid Gorgon,Creature - Gorgon,3,6,5B,R,Deathtouch.,
+119,Zombie Goliath,Creature - Zombie Giant,4,3,4B,C,,
+120,Arms Dealer,Creature - Goblin Rogue,1,1,2R,U,,
+121,Bladetusk Boar,Creature - Boar,3,2,3R,C,Intimidate.,
+122,Canyon Minotaur,Creature - Minotaur Warrior,3,3,3R,C,,
+123,"Chandra, the Firebrand",Planeswalker - Chandra,N/A,N/A,3R,M,,
+124,Chandra's Fury,Instant,N/A,N/A,4R,C,,
+125,Cleaver Riot,Sorcery,N/A,N/A,4R,U,,
+126,Craterize,Sorcery,N/A,N/A,3R,C,,
+127,Crimson Muckwader,Creature - Lizard,2,1,1R,U,,Crimson Muckwader gets +1/+1 as long as you control a Swamp. 2B : Regenerate Crimson Muckwader.
+128,Dragon Hatchling,Creature - Dragon,0,1,1R,C,Flying ,R : Dragon Hatchling gets +1/+0 until end of turn.
+129,Fervor,Enchantment,N/A,N/A,2R,R,,
+130,Fire Elementals,Creature - Elemental,5,4,3RR,C,,
+131,Firewing Phoenix,Creature - Phoenix,4,2,3R,R,Flying.,
+132,Flames of the Firebrand,Sorcery,N/A,N/A,2R,U,,
+133,Furnace Whelp,Creature - Dagon,2,2,2RR,U,Flying. ,R : Furnace Whelp gets +1/+0 until end of turn.
+134,Goblin Arsonist,Creature - Goblin Shaman,1,1,R,C,,
+135,Goblin Battle Jester ,Creature - Goblin,2,2,3R,C,,
+136,Hamletback Goliath,Creature - Giant Warrior,6,6,6R,R,,
+137,Kindled Fury,Instant,N/A,N/A,R,C,,
+138,"Krenko, Mob Boss",Legendary Creature - Goblin Warrior,3,3,2RR,R,,
+139,Krenko's Command,Sorcery,N/A,N/A,1R,C,,
+140,Magmaquake,Instant,N/A,N/A,XRR,R,,
+141,Mark of Mutiny ,Sorcery,N/A,N/A,2R,U,,
+142,Mindclaw Shaman,Creature - Viashino Shaman,2,2,4R,U,,
+143,Mogg Flunkies,Creature - Goblin,3,3,1R,C,,Mogg Flunkies can't attack or block alone.
+144,Reckless Brute,Creature - Ogre Warrior,3,1,2R,C,Haste. ,Reckless Brute attacks each turn if able.
+145,Reverberate,Instant,N/A,R,RR,R,,
+146,Rummaging Goblin,Creature - Goblin Rogue,1,1,2R,C,,
+147,Searing Spear,Instant,N/A,N/A,1R,C,,
+148,Slumbering Dragon,Creature - Dragon,3,3,R,R,Flying. ,"Slumbering Dragon can't attack or block unless if has five or more  +1/+1 counters on it. Whenever a creature attacks you or a planeswalker you control, put a +1/+1 counter on Slumbering Dragon."
+149,Smelt,Instant,N/A,N/A,R,C,,
+150,Thundermaw Hellkite,Creature - Dragon,5,5,3RR,M,Flying. Haste. ,"When Thundermaw Hellkite enters the battlefield, it deals 1 damage to each creature with flying your opponents control. Tap those creatures."
+151,Torch Fiend,Creature - Devil,2,1,1R,U,,
+152,Trumpet Blast,Instant,N/A,N/A,2R,C,,
+153,Turn to Slag,Sorcery,N/A,N/A,3RR,C,,
+154,Volcanic Geyser,Instant,N/A,N/A,XRR,U,,
+155,Valcanic Strength,Enchantment - Aura,N/A,N/A,1R,C,,
+156,Wall of Fire,Creature - Wall,0,5,1RR,C,Defender., R: Wall of Fire gets +1/+0 until end of turn.
+157,Wild Guess,Sorcery,N/A,N/A,RR,C,,
+158,Worldfire,Sorcery,N/A,N/A,6RRR,M,,
+159,Acidic Slime,Creature - Ooze,2,2,3GG,U,Deathtouch.," When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
+160,Arbor Elf,Creature - Elf Druid,1,1,G,C,,T : Untap target Forest. 
+161,Bond Beetle,Creature - Insect,0,1,G,C,,
+162,Boundless Realms,Sorcery,N/A,N/A,6G,R,,
+163,Bountiful Harvest,Sorcery,N/A,N/A,4G,C,,
+164,Centaur Courser,Creature - Centaur Warrior,3,3,2G,C,,
+165,Deadly Recluse,Creature - Spider,1,2,1G,C,Reach. Deathtouch.,
+166,Duskdale Wurm,Creature - Wurm,7,7,5GG,U,Trample.,
+167,Elderscale Wurm,Creature - Wurm,7,7,4GGG,M,Trample. ,"When Elderscale Wurm enters the battlefield, if your life total is less than 7, your life total becomes 7. As long as you have 7 or more life, damage that would reduce your life total to less than 7 reduces it to 7 instead."
+168,Elvish Archdruid,Creature - Elf Druid,2,2,1GG,R,,Other Elf Creatures you control get +1/+1. T : Add G to your mana pool for each Elf you control.
+169,Elvish Visionary,Creature - Elf Shaman,1,1,1G,C,,Draw a card.
+170,Farseek,Sorcery,N/A,N/A,1G,C,,
+171,Flinthoof Boar,Creature - Boar,2,2,1G,U,,Flithoof Boar gets +1/+1 as long as you control a Mountain. R : Flinthoof Boar gains haste until end of turn.
+172,Fog,Instant,N/A,N/A,G,C,,
+173,Fungal Sproutling,Sorcery,N/A,N/A,3G,U,,
+174,"Garruk, Primal Hunter",Planeswalker - Garruk,N/A,N/A,2GGG,M,,
+175,Garruk's Packleader,Creature - Beast,4,4,4G,U,,
+176,Ground Seal,Enchantment,N/A,N/A,1G,R,,
+177,Mwonvuli Beast Tracker,Creature - Human Scout,2,1,1GG,U,,
+178,Naturalize,Instant,N/A,N/A,1G,C,,
+179,Plummet,Instant,N/A,N/A,1G,C,,
+180,Predatory Rampage,Sorcery,N/A,N/A,3GG,R,,
+181,Prey Upon,Sorcery,N/A,N/A,G,C,,
+182,Primal Huntbeast,Creature - Beast,3,3,3G,C,Hexproof,
+183,Primordial Hydra,Creature - Hydra,0,0,XGG,M,,
+184,Quirion Dryad,Creature - Dryad,1,1,1G,R,,
+185,Rancor,Enchantment - Aura,N/A,N/A,G,U,,
+186,Ranger's Path,Sorcery,N/A,N/A,3G,C,,
+187,Revive,Sorcery,N/A,N/A,1G,U,,
+188,Roaring Primadox,Creature - Beast,4,4,3G,U,,
+189,Sentinel Spider,Creature - Spider,4,4,3GG,C,Vigilance. Reach.,
+190,Serpent's Gift,Instant,N/A,N/A,2G,C,,
+191,Silklash Spider,Creature - Spider,2,7,3GG,R,Reach. ,XGG : Silklash spider deals X damage to each creature with flying.
+192,Spiked Baloth,Creature - Beast,4,2,3G,C,Trample.,
+193,Thragtusk,Creature - Beast,5,3,4G,R,,"ETB, gain 5 life. LTB, put a 3/3 into the battlefield."
+194,Timberpack Wolf,Creature - Wolf,2,2,1G,C,,
+195,Titanic Growth,Instant,N/A,N/A,1G,C,,
+196,Vastwood Gorger,Creature - Wurm,5,6,5G,C,,
+197,"Yeva, Nature's Herald",Legendary Creature - Elf Shaman,4,4,2GG,R,Flash. ,You may cast green creature cards as though they had flash.
+198,Yeva's Forcemage,Creature - Elf Shaman,2,2,2G,C,,"ETB, target creature gets +2/+2 until end of turn."
+199,"Nicol Bolas, Planeswalker",Planeswalker - Bolas,N/A,N/A,4UBBR,M,,
+200,Akroma's Memorial,Legendary Artifact,N/A,N/A,7,M,,
+201,Chronomaton,Artifact Creature - Golem,1,1,1,U,,"1, T : Put +1/+1 counter on Chronomaton."
+202,Clock of Omens,Artifact ,N/A,N/A,4,U,,
+203,Door to Nothingness,Artifact ,N/A,N/A,5,R,,
+204,Elixir of Immortality,Artifact ,N/A,N/A,1,U,,
+205,Gem of Becoming,Artifact,N/A,N/A,3,U,,
+206,Gilded Lotus,Artifact,N/A,N/A,5,R,,
+207,Jayemdae Tome,Artifact,N/A,N/A,4,U,,
+208,Kitesail,Artifact - Equipment,N/A,N/A,2,U,,
+209,Phyrexian Hulk,Artifact Creature - Golem,5,4,6,U,,
+210,Primal Clay,Artifact Creature - Shapeshifter,*,*,4,U,,
+211,Ring of Evos Isle,Artifact - Equipment,N/A,N/A,2,U,,
+212,Ring of Kalonia,Artifact - Equipment,N/A,N/A,2,U,,
+213,Ring of Thune,Artifact - Equipment,N/A,N/A,2,U,,
+214,Ring of Valkas,Artifact - Equipment,N/A,N/A,2,U,,
+215,Ring of Xathrid,Artifact - Equipment,N/A,N/A,2,U,,
+216,Sands of Delerium,Artifact,N/A,N/A,3,R,,
+217,Staff of Nin,Artifact,N/A,N/A,6,R,,
+218,Stuffy Doll,Artifact Creature - Construct,0,1,5,R,Indestructable.,
+219,Tormod's Crypt,Artifact ,N/A,N/A,6,U,,
+220,Trading Post,Artifact,N/A,N/A,4,R,,
+221,Cathedral of War,Land,N/A,N/A,N/A,R,,
+222,Dragonskull Summit,Land,N/A,N/A,N/A,R,,
+223,Drowned Catacomb,Land,N/A,N/A,N/A,R,,
+224,Evolving Wilds,Land ,N/A,N/A,N/A,C,,
+225,Glacial Fortress,Land,N/A,N/A,N/A,R,,
+226,Hellion Crucible,Land,N/A,N/A,N/A,R,,
+227,Relinquary Tower,Land,N/A,N/A,N/A,U,,
+228,Rootbound Crag ,Land,N/A,N/A,N/A,R,,
+229,Sunpetal Grove ,Land,N/A,N/A,N/A,R,,
